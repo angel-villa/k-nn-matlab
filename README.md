@@ -12,4 +12,6 @@ Data file should be in the form
 
 Should also work in GNU Octave, just slower.
 
+![](https://github.com/angel-villa/k-nn-matlab/blob/master/error_k1_100_1_fold_val_no_id.png)
+
 Using Breast Cancer Wisconsin (Diagnostic) Data Set from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29.
